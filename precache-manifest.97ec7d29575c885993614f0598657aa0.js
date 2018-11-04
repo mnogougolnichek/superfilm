@@ -16,23 +16,23 @@ self.__precacheManifest = [
     "url": "/superfilm/static/js/runtime~main.12ff1171.js"
   },
   {
-    "revision": "70bab760aa1ba5ce9d8f",
-    "url": "/superfilm/static/js/main.70bab760.chunk.js"
+    "revision": "47a0c8d160187b227e7c",
+    "url": "/superfilm/static/js/main.47a0c8d1.chunk.js"
   },
   {
     "revision": "6ef38f9c6784cb6d5777",
     "url": "/superfilm/static/js/1.6ef38f9c.chunk.js"
   },
   {
-    "revision": "70bab760aa1ba5ce9d8f",
-    "url": "/superfilm/static/css/main.e871059c.chunk.css"
+    "revision": "47a0c8d160187b227e7c",
+    "url": "/superfilm/static/css/main.a3ee7547.chunk.css"
   },
   {
     "revision": "6ef38f9c6784cb6d5777",
     "url": "/superfilm/static/css/1.4400d1b3.chunk.css"
   },
   {
-    "revision": "4d9e3692156424b1e65b13dfa5ad308f",
+    "revision": "f61a5fa51b7655fd827645da659dde61",
     "url": "/superfilm/index.html"
   }
 ];
