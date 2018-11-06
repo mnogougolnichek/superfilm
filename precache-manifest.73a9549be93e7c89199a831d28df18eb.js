@@ -12,27 +12,31 @@ self.__precacheManifest = [
     "url": "/superfilm/static/media/chevronleft.60eeefe1.svg"
   },
   {
+    "revision": "bef325f57a744fac09b47147cea747a7",
+    "url": "/superfilm/static/media/bell.bef325f5.svg"
+  },
+  {
     "revision": "12ff11717ad74827001d",
     "url": "/superfilm/static/js/runtime~main.12ff1171.js"
   },
   {
-    "revision": "47a0c8d160187b227e7c",
-    "url": "/superfilm/static/js/main.47a0c8d1.chunk.js"
+    "revision": "6fc582d190547b21742d",
+    "url": "/superfilm/static/js/main.6fc582d1.chunk.js"
   },
   {
     "revision": "6ef38f9c6784cb6d5777",
     "url": "/superfilm/static/js/1.6ef38f9c.chunk.js"
   },
   {
-    "revision": "47a0c8d160187b227e7c",
-    "url": "/superfilm/static/css/main.a3ee7547.chunk.css"
+    "revision": "6fc582d190547b21742d",
+    "url": "/superfilm/static/css/main.f8e98aab.chunk.css"
   },
   {
     "revision": "6ef38f9c6784cb6d5777",
     "url": "/superfilm/static/css/1.4400d1b3.chunk.css"
   },
   {
-    "revision": "f61a5fa51b7655fd827645da659dde61",
+    "revision": "04c02b9dc9e2dfc24854ff322398e400",
     "url": "/superfilm/index.html"
   }
 ];
